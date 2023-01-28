@@ -1,4 +1,4 @@
-[ENG]
+# [ENG]
 My research project is focused on the intersection of cybersecurity and machine learning, specifically utilizing APIs to enhance the overall security of a system. I am exploring how machine learning algorithms can be applied to detect and prevent cyber attacks, and how APIs can be integrated with these algorithms to gather and analyze data in real-time. The goal of the project is to develop a more robust and efficient cybersecurity system by utilizing the capabilities of machine learning and APIs. This may include using machine learning to identify patterns in network traffic that indicate a potential attack, and then using APIs to quickly block or neutralize the threat. Additionally, I am researching on how to use APIs to gather data from multiple sources and use this data to train machine learning models that are better equipped to detect and prevent cyber attacks. Overall, my research aims to improve the state-of-the-art in cybersecurity by leveraging the power of machine learning and APIs.
 
 In my research project, I plan to use Twitter data and/or Twitter APIs to gather information related to cybersecurity issues and trends. For example, I may use the Twitter API to collect tweets that contain certain keywords or hashtags related to cybersecurity, such as "data breach" or "ransomware." This data can then be analyzed to understand the current discussions and concerns in the cybersecurity community, as well as to identify emerging threats.
@@ -41,10 +41,10 @@ The outcomes of my research will be shared in several ways:
 
 By sharing the outcomes of the research in these ways, I hope to make the results of the study widely available and accessible to other researchers and practitioners in the field, as well as to the general public. This will help to increase understanding of the cybersecurity-related discussions and concerns on Twitter, and will also help to develop more effective strategies for defending against cyber attacks.
 
-[PT]
+# [PT]
 Meu projeto de pesquisa é focado na interseção de segurança cibernética e aprendizado de máquina, especificamente utilizando APIs para aprimorar a segurança geral de um sistema. Estou explorando como os algoritmos de aprendizado de máquina podem ser aplicados para detectar e prevenir ataques cibernéticos e como as APIs podem ser integradas a esses algoritmos para coletar e analisar dados em tempo real. O objetivo do projeto é desenvolver um sistema de segurança cibernética mais robusto e eficiente, utilizando os recursos de aprendizado de máquina e APIs. Isso pode incluir o uso de aprendizado de máquina para identificar padrões no tráfego de rede que indicam um possível ataque e, em seguida, o uso de APIs para bloquear ou neutralizar rapidamente a ameaça. Além disso, estou pesquisando como usar APIs para coletar dados de várias fontes e usar esses dados para treinar modelos de aprendizado de máquina mais bem equipados para detectar e prevenir ataques cibernéticos. No geral, minha pesquisa visa melhorar o estado da arte em segurança cibernética, aproveitando o poder do aprendizado de máquina e das APIs.
 
-Em meu projeto de pesquisa, pretendo usar dados do Twitter e/ou APIs do Twitter para coletar informações relacionadas a questões e tendências de segurança cibernética. Por exemplo, posso usar a API do Twitter para coletar tweets que contenham determinadas palavras-chave ou hashtags relacionadas à segurança cibernética, como "violação de dados" ou "ransomware". Esses dados podem ser analisados ​​para entender as discussões e preocupações atuais na comunidade de segurança cibernética, bem como para identificar ameaças emergentes.
+Em meu projeto de pesquisa, pretendo usar dados do Twitter e/ou APIs do Twitter para coletar informações relacionadas a questões e tendências de segurança cibernética. Por exemplo, posso usar a API do Twitter para coletar tweets que contenham determinadas palavras-chave ou hashtags relacionadas à segurança cibernética, como "violação de dados" ou "ransomware". Esses dados podem ser analisados para entender as discussões e preocupações atuais na comunidade de segurança cibernética, bem como para identificar ameaças emergentes.
 
 Além disso, posso usar a API do Twitter para rastrear a atividade de determinadas contas ou grupos que estão envolvidos em ataques cibernéticos ou para espalhar malware. Essas informações podem ser usadas para entender as táticas e técnicas utilizadas por esses atores e desenvolver estratégias de defesa contra seus ataques.
 
@@ -76,7 +76,7 @@ Os resultados da minha pesquisa serão compartilhados de várias maneiras:
 
     Postagens de blog: escreverei uma série de postagens de blog resumindo as principais descobertas e implicações da pesquisa para um público mais amplo.
 
-    Dados Abertos: Vou disponibilizar os dados usados ​​na pesquisa para outros pesquisadores e para o público por meio de um repositório de dados aberto, como o Zenodo, para que outros pesquisadores possam usá-los em pesquisas futuras.
+    Dados Abertos: Vou disponibilizar os dados usados na pesquisa para outros pesquisadores e para o público por meio de um repositório de dados aberto, como o Zenodo, para que outros pesquisadores possam usá-los em pesquisas futuras.
 
     Ferramentas e Código: Compartilharei o código e as ferramentas usadas na pesquisa em uma plataforma de hospedagem de código como o Github, para que outros pesquisadores possam replicar ou desenvolver o trabalho.
 

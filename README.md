@@ -48,7 +48,7 @@ Em meu projeto de pesquisa, pretendo usar dados do Twitter e/ou APIs do Twitter 
 
 Além disso, posso usar a API do Twitter para rastrear a atividade de determinadas contas ou grupos que estão envolvidos em ataques cibernéticos ou para espalhar malware. Essas informações podem ser usadas para entender as táticas e técnicas utilizadas por esses atores e desenvolver estratégias de defesa contra seus ataques.
 
-Além disso, posso usar os dados do Twitter para treinar modelos de aprendizado de máquina que podem classificar automaticamente os tweets como relacionados à segurança cibernética ou não e, em seguida, usar as previsões desses modelos para identificar tweets relevantes.
+Irei usar os dados do Twitter para treinar modelos de aprendizado de máquina que podem classificar automaticamente os tweets como relacionados à segurança cibernética ou não e, em seguida, usar as previsões desses modelos para identificar tweets relevantes.
 
 No geral, o uso de dados do Twitter e/ou APIs do Twitter em meu projeto de pesquisa me permitirá coletar informações em tempo real sobre questões e tendências de segurança cibernética, bem como rastrear a atividade de atores envolvidos em ataques cibernéticos. Essas informações serão cruciais para me ajudar a entender melhor o cenário atual de segurança cibernética e a desenvolver estratégias mais eficazes de defesa contra ameaças cibernéticas.
 
